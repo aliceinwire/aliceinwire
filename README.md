@@ -4,4 +4,12 @@ Contributing to the following organizations:
 - [@gkernelci](https://github.com/gkernelci)
 - [@torvalds](https://github.com/torvalds)
 - [@miraclelinux](https://github.com/miraclelinux)
-- [@kernelci](https://github.com/kernelci)  
+- [@kernelci](https://github.com/kernelci)
+
+<br>
+
+[arisut@gentoo](https://wiki.gentoo.org/wiki/User:Alicef)  
+Maintainer and developer of:  
+- [KernelCI kci-dev](https://github.com/kernelci/kci-dev)
+- [GKernelCI](https://github.com/gkernelci)
+- [elivepatch](https://wiki.gentoo.org/wiki/Elivepatch)
