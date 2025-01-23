@@ -15,5 +15,5 @@ Maintainer and developer of:
 - [elivepatch](https://wiki.gentoo.org/wiki/Elivepatch)
 
 The packages I mantain can be found also here:
-- [repology alicef@gentoo.org](https://repology.org/projects/?maintainer=alicef%40gentoo.org)
+- [repology @gentoo.org](https://repology.org/projects/?maintainer=alicef%40gentoo.org)
 - [KernelCI docs](https://docs.kernelci.org/org/maintainers/#software-maintainers)
