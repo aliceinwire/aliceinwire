@@ -13,3 +13,7 @@ Maintainer and developer of:
 - [KernelCI kci-dev](https://github.com/kernelci/kci-dev)
 - [GKernelCI](https://github.com/gkernelci)
 - [elivepatch](https://wiki.gentoo.org/wiki/Elivepatch)
+
+The packages I mantain can be found also here:
+- [repology alicef@gentoo.org](https://repology.org/projects/?maintainer=alicef%40gentoo.org)
+- [KernelCI docs](https://docs.kernelci.org/org/maintainers/#software-maintainers)
